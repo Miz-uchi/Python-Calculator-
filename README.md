@@ -1,5 +1,5 @@
 # Python-Calculator-
-Calculator for Python 
+Working Calculator for Python 
 
 <img align="left" alt="Coding" width="250" src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e47a8b40crzha5cvj59aoe0qh5k704d4s5t4425uo7n&rid=200.webp&ct=g">
 
